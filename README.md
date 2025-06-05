@@ -5,3 +5,5 @@
 
 # sign\Scripts\activate
 
+# Run 
+python app.py

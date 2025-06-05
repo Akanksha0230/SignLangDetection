@@ -2,6 +2,6 @@ opencv-python
 numpy
 pandas
 mediapipe
-keras==2.15.0
-tensorflow==2.15.1
-sklearn
+keras==2.14.0
+tensorflow==2.14.0
+scikit-learn
